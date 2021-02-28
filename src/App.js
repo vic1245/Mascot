@@ -39,14 +39,15 @@ function App() {
       <Table dark>
         <thead>
           <tr>
-            <th>Name pet</th>
-            <th>First Name</th>
-            <th>Last Name</th>
-            <th>Username</th>
-            <th>#</th>
-            <th>First Name</th>
-            <th>Last Name</th>
-            <th>Username</th>
+            <th>Number</th>
+            <th>Pet Name</th>
+            <th>Pet Type</th>
+            <th>Pet Breed</th>
+            <th>Pet Date</th>
+            <th>Owner Name</th>
+            <th>Owner Phone</th>
+            <th>Owner Address</th>
+            <th>Owner Email</th>
           </tr>
         </thead>
         <tbody>
@@ -55,17 +56,32 @@ function App() {
             <td>Mark</td>
             <td>Otto</td>
             <td>@mdo</td>
+            <td>@mdo</td>
+            <td>@mdo</td>
+            <td>@mdo</td>
+            <td>@mdo</td>
+            <td>Mark</td>
           </tr>
           <tr>
             <th scope="row">2</th>
             <td>Jacob</td>
             <td>Thornton</td>
             <td>@fat</td>
+            <td>@fat</td>
+            <td>@fat</td>
+            <td>@fat</td>
+            <td>@fat</td>
+            <td>@fat</td>
           </tr>
           <tr>
             <th scope="row">3</th>
             <td>Larry</td>
             <td>the Bird</td>
+            <td>@twitter</td>
+            <td>@twitter</td>
+            <td>@twitter</td>
+            <td>@twitter</td>
+            <td>@twitter</td>
             <td>@twitter</td>
           </tr>
         </tbody>
