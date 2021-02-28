@@ -3,6 +3,7 @@ import React from 'react'
 function App() {
   return (
     <div className="container mt-5">
+      <button>Add Pet</button>
       <h1>Attention to Pets</h1>
       <hr/>
       <div LassName="row"> 
@@ -92,7 +93,7 @@ function App() {
           <button className="btn btn-dark btn-block"
           type="submit"
           >Remove</button>
-          <h1>holooo</h1>
+          
 
       </div>
       </div>
